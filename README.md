@@ -15,7 +15,7 @@
 ### Create Project
 1. Open `vsCode`
 2. Open project folder in vsCode.  File >> Open folder, or drag project folder on desktop to vsCode
-3. Open command palette View >> command pallet or `ctl+shift+p` > type "Select Default Profile"
+3. Open Command Palette View >> Command Palette or `ctl+shift+p` > type "Select Default Profile"
 
 ### Code
 1. Create file for project.  File >> New file from menu
