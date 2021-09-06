@@ -8,7 +8,7 @@
 
 **I want** Use the `NodeJS` application online
 
-**So That** I dont have to take unnecessary steps to download code
+**So That** I dont have to take unnecessary steps to download code, etc.
 
 ## Step-by-step
 
